@@ -1,4 +1,4 @@
-# Optimiser la gestion des données d'une boutique avec PythonOptimiser la gestion des données d'une boutique avec Python
+# Optimiser la gestion des données d'une boutique avec Python
 
  
 ## Objectifs
